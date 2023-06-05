@@ -7,7 +7,7 @@
 - **Topic:** Cloud Operations, Networking
 
 ### Overview
-This repo contains the _slide deck_ and [Terraform](https://www.terraform.io/) files I used at the [AWS 2023 DC Summit](https://aws.amazon.com/events/summits/washington-dc/).
+This repo contains the _slide deck_ and [Terraform](https://www.terraform.io/) used at the [AWS 2023 DC Summit](https://aws.amazon.com/events/summits/washington-dc/).
 
 ### Provisioning Infrastructure
 ```hcl
